@@ -2,9 +2,10 @@
 ## ChIP-seq for Unraveling DNA-Protein Interactions
 
 ### Introduction:
-<p style="text-align: justify;">
+
+<div style="text-align: justify;">
 Chromatin Immunoprecipitation followed by sequencing (ChIP-seq) is a powerful experimental technique used to investigate DNA-protein interactions on a genome-wide scale. It provides insights into the binding patterns of proteins, such as transcription factors and histones, to specific regions of the genome. ChIP-seq has revolutionized the field of epigenetics and gene regulation by enabling the identification of genomic regions associated with important biological processes, including gene expression, chromatin structure, and DNA methylation.
-</p>
+</div>
 
 ### Principle of ChIP-seq:
 The ChIP-seq technique involves cross-linking proteins to DNA within intact cells, followed by their selective immunoprecipitation using specific antibodies. The cross-linked DNA-protein complexes are then fragmented, and the DNA fragments bound to the protein of interest are enriched through immunoprecipitation. The enriched DNA fragments are subsequently sequenced using high-throughput sequencing technologies, generating millions of short DNA sequence reads.
